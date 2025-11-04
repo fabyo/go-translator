@@ -54,5 +54,15 @@ O projeto espera um XML no padrão:
 </game>
 </gameList>
 
+---
+
+## 🗂️ Instalação e uso
+
+- git clone https://github.com/fabyo/go-gamelist-gpt.git
+- cd go-gamelist-gpt
+- go get github.com/sashabaranov/go-openai
+- go mod tidy
+- const openAIKey = "" <= colocar sua API
+- go run main.go "D:\roms\megadrive"
 
 
