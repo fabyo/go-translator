@@ -21,8 +21,8 @@ Ferramenta em \*\*Go\*\* para:
 A ideia principal não é só “traduzir gamelist”, mas:
 
 - Demonstrar \*\*como consumir a API ChatGPT\*\* em Go
-- Mostrar manipulação de \*\*estruturas XML reais\*\*
-- Criar um exemplo que qualquer pessoa que mexe com ROMs/emuladores entende e consegue reutilizar
+- Mostrar manipulação de \*\*estruturas XML\*\*
+- Criar um exemplo que qualquer pessoa que mexe com ROMs/emuladores entende e consegue reutilizar até em outras areas
 
 ---
 
