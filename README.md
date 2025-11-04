@@ -3,7 +3,7 @@
 
 Ferramenta em \*\*Go\*\* para:
 
-- Ler um arquivo `gamelist.xml` (formato usado por EmulationStation, Batocera etc.)
+- Ler um arquivo `gamelist.xml` (formato usado por Retrobat, Batocera etc.)
 - Coletar o conteúdo das tags `<desc>` de cada jogo
 - Enviar essas descrições para a \*\*API GPT (OpenAI)\*\*
 - Gerar um \*\*novo XML\*\* (`gamelist\_pt.xml`) com as descrições \*\*traduzidas\*\* para português do Brasil
