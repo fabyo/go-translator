@@ -54,7 +54,7 @@ O projeto espera um XML no padrão:
   ...
 </game>
 </gameList>
-```xml
+```
 
  📥 Instalação e uso
 
@@ -65,5 +65,5 @@ O projeto espera um XML no padrão:
 - go mod tidy
 - const openAIKey = "" <= colocar sua API
 - go run main.go "D:\roms\megadrive"
-```code
+```
 
