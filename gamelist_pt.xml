@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gameList>
+  <game>
+    <path>./anmlbskt.zip</path>
+    <name>Animal Basket</name>
+    <desc>&#34;Tamaire&#34; é um jogo tradicionalmente jogado por crianças japonesas do ensino fundamental em festivais esportivos. São necessários cerca de 200 bolas de pelúcia, 2 cestas e 2 postes para segurar as cestas. Qualquer número de crianças pode participar. Esta é a versão de videogame deste jogo japonês!</desc>
+    <image>./images/anmlbskt-image.png</image>
+    <rating>0.7</rating>
+    <releasedate>20050101T000000</releasedate>
+    <developer>MOSS</developer>
+    <publisher>Sammy Corporation</publisher>
+    <genre>Esporte / Basquete</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./demofist.zip</path>
+    <name>Demolish Fist</name>
+    <desc>Demolish Fist é um jogo de luta onde o jogador controla um dos quatro personagens: Enzo, Leoneer, Vanessa ou Undead, e enfrenta diversos estágios. Há uma variedade de itens disponíveis para serem usados como armas contra os inimigos. Cada personagem possui movimentos e ataques especiais únicos que podem ser acionados a qualquer momento. Além disso, todos os quatro personagens têm a habilidade de usar a incrível técnica &#39;Vertigo&#39;! Demolish Fist é um jogo de luta bem elaborado que oferece muitas opções no mundo dos jogos de luta.</desc>
+    <image>./media/images/demofist.png</image>
+    <rating>0.75</rating>
+    <releasedate>20030601T000000</releasedate>
+    <developer>Dimps</developer>
+    <publisher>Sammy Corporation</publisher>
+    <genre>Luta</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./dirtypig.zip</path>
+    <name>Dirty Pigskin Football</name>
+    <desc>Este é um jogo de futebol com um toque especial. Em vez de jogadores de futebol tradicionais, cada um com seu próprio conjunto de valores morais, temos um elenco completamente único de jogadores que não conhecem o significado da palavra. Um dos times em destaque é: Os prisioneiros, em seus uniformes de prisão laranja tradicionais. Em seguida, temos: O grupo de assassinos, todos vestidos com ternos pretos e óculos escuros, agradável, não é? Esses homens estão ansiosos para sujar as mãos. No total, há 12 times neste jogo, vários locais para jogar, e o jogo também apresenta um modo de jogo simultâneo para 4 jogadores. Com um sistema de jogo fácil de usar, Pigskin recebe jogadores de todos os níveis para participar da ação.</desc>
+    <image>./images/dirtypig-image.png</image>
+    <rating>0.7</rating>
+    <releasedate>20060101T000000</releasedate>
+    <developer>Play Mechanix</developer>
+    <publisher>Sammy Corporation</publisher>
+    <genre>Esporte / Futebol americano</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./dolphin.zip</path>
+    <name>Dolphin Blue</name>
+    <desc>Jogo de tiro arcade da Sammy para Atomiswave no estilo de Metal Slug, onde os jogadores montam em golfinhos e destroem frotas de navios e submarinos inimigos. Infelizmente, este jogo de tiro arcade nunca foi portado para nenhum console doméstico.</desc>
+    <image>./images/dolphin-image.png</image>
+    <rating>0.8</rating>
+    <releasedate>20030101T000000</releasedate>
+    <developer>Sammy Corporation</developer>
+    <publisher>Sammy Corporation</publisher>
+    <genre>Plataforma / Tiro com rolagem</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./fotns.zip</path>
+    <name>Fist of the North Star</name>
+    <desc>Hokuto No Ken é provavelmente um dos jogos mais interessantes do Atomiswave, tanto por sua jogabilidade rápida e brutal quanto pelo charme dos personagens e da história que representa.</desc>
+    <image>./media/images/fotns.png</image>
+    <rating>0.95</rating>
+    <releasedate>20050101T000000</releasedate>
+    <developer>Arc System Works</developer>
+    <publisher>SEGA</publisher>
+    <genre>Luta / Versus</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./ftspeed.zip</path>
+    <name>Faster Than Speed</name>
+    <desc>Entre no emocionante mundo das corridas de rua de FASTER THAN SPEED, onde o vencedor dita as regras e o perdedor sai a pé! Acelere pelas ruas com a experiência de direção mais viciante da sua vida! Escolha entre 8 carros personalizados. FASTER THAN SPEED levará seus jogadores para as exóticas e sombrias ruas secundárias de mais de 6 pistas desafiando o mais rápido, o mais veloz, o mais durão e o piloto mais equipado domina o asfalto! Para derrotar seu adversário, você precisa incendiar a pista com uma variedade de truques em alta velocidade.</desc>
+    <image>./media/images/ftspeed.png</image>
+    <rating>0.8</rating>
+    <releasedate>20040101T000000</releasedate>
+    <developer>Sammy Corporation</developer>
+    <publisher>Sammy Corporation</publisher>
+    <genre>Corrida, Pilotagem / Corrida em 1ª pessoa</genre>
+    <players>1</players>
+  </game>
+  <game>
+    <path>./kofnw.zip</path>
+    <name>The King of Fighters Neowave</name>
+    <desc>The King of Fighters: Neowave é um jogo de luta 2D 3-contra-3 da série King of Fighters, apresentando três estilos de jogabilidade e novo hardware.</desc>
+    <image>./media/images/kofnw.png</image>
+    <rating>0.8</rating>
+    <releasedate>20040101T000000</releasedate>
+    <developer>SNK Playmore</developer>
+    <publisher>Sammy Corporation</publisher>
+    <genre>Luta / Versus</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./kov7sprt.zip</path>
+    <name>Knights of Valour : The Seven Spirits</name>
+    <desc>Knights of Valour é um jogo de fliperama de ação de pancadaria side-scrolling lançado pela International Games System em 1999. A trama é vagamente adaptada do romance histórico chinês Romance dos Três Reinos e apresenta os Cinco Generais Tigres, Zhuge Liang, Diaochan e outros como personagens jogáveis. A jogabilidade envolve o uso de poderes mágicos que não são apresentados em outros jogos também baseados no romance.</desc>
+    <image>./media/images/kov7sprt.png</image>
+    <rating>0.8</rating>
+    <releasedate>20030101T000000</releasedate>
+    <developer>IGS</developer>
+    <publisher>Sammy Corporation</publisher>
+    <genre>Luta / 2.5D</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./maxspeed.zip</path>
+    <name>Maximum Speed</name>
+    <desc>Maximum Speed é um jogo de corrida que inclui um modo para um jogador e um modo 2 Jogadores Cabeça a Cabeça, 6 pistas diferentes e permite aos jogadores escolher entre transmissão automática ou manual. Há 3 níveis de dificuldade disponíveis para o jogador, garantindo que Maximum Speed continue sendo divertido e atraente para uma variedade de jogadores.&#xA;&#xA;Os jogadores também podem escolher entre 3 estilos de corrida distintos: Stock Car, Open Wheel Cart ou Pickup Truck. Maximum Speed também apresenta ótimos gráficos em 3D e feedback do volante, que adicionam um grau de realismo ao jogo.</desc>
+    <image>./media/images/maxspeed.png</image>
+    <rating>0.75</rating>
+    <releasedate>20030101T000000</releasedate>
+    <developer>Sims</developer>
+    <publisher>Sammy Corporation</publisher>
+    <genre>Corrida, Pilotagem / Corrida em 1ª pessoa</genre>
+    <players>1</players>
+  </game>
+  <game>
+    <path>./ngbc.zip</path>
+    <name>NeoGeo Battle Coliseum</name>
+    <desc>NeoGeo Special Cast lança o jogo de luta em equipe NeoGeo Battle Coliseum. Além dos heróis e heroínas originais, ele apresenta uma série de personagens únicos que transcendem o tempo. Armados com armas e robôs, guerreiros de títulos antigos e novos da outrora dominante plataforma NeoGeo foram reunidos sob um mesmo teto nesta nova versão para Xbox LIVE Arcade, com gráficos de personagens e cenários refeitos em alta definição.</desc>
+    <image>./images/ngbc-image.png</image>
+    <rating>0.85</rating>
+    <releasedate>20050727T000000</releasedate>
+    <developer>SNK Playmore</developer>
+    <publisher>SEGA</publisher>
+    <genre>Luta</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./rangrmsn.zip</path>
+    <name>Ranger Mission</name>
+    <desc>Um jogo de combate militar em 3D para 1 a 2 jogadores, onde os jogadores usam espingardas de ação por bombeamento para atirar nos inimigos na tela. O jogo possui quatro missões diferentes: Missão na Selva, Missão no Deserto, Missão de Resgate Interno e Missão na Tundra.</desc>
+    <image>./media/images/rangrmsn.png</image>
+    <rating>0.75</rating>
+    <releasedate>20040101T000000</releasedate>
+    <developer>RIZ</developer>
+    <publisher>Sammy Corporation</publisher>
+    <genre>Tiro com Lightgun</genre>
+    <players>1</players>
+  </game>
+  <game>
+    <path>./rumblef.zip</path>
+    <name>The Rumble Fish</name>
+    <desc>The Rumble Fish é um jogo de luta criado pela Dimps para a plataforma de fliperama Atomiswave. Sua qualidade mais marcante é seu motor gráfico, que anima separadamente os membros dos personagens.</desc>
+    <image>./media/images/rumblef.png</image>
+    <rating>0.85</rating>
+    <releasedate>20040101T000000</releasedate>
+    <developer>Dimps</developer>
+    <publisher>Sammy Corporation</publisher>
+    <genre>Luta / Versus</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./salmankt.zip</path>
+    <name>Net Select Salaryman Kintaro</name>
+    <desc>Jogo clássico de dominó inspirado em uma série de mangá japonesa de Hiroshi Motomiya. Foi serializado na Weekly Young Jump de 1994 a 2002, com vários períodos de inatividade durante sua publicação. Salaryman Kintaro vendeu mais de 30 milhões de cópias em formato de bolso.</desc>
+    <image>./images/salmankt-image.png</image>
+    <rating>0.75</rating>
+    <releasedate>20040101T000000</releasedate>
+    <developer>Yuki Enterprise</developer>
+    <publisher>Sammy Corporation</publisher>
+    <genre>Jogo de tabuleiro Asiático / Mahjong</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./sprtshot.zip</path>
+    <name>Sports Shooting USA</name>
+    <desc>Um jogo de tiro competitivo para 1 a 2 jogadores, onde os jogadores, usando armas ópticas, devem atirar em um número específico de alvos na tela dentro de um limite de tempo para se qualificar e avançar para a próxima rodada.</desc>
+    <image>./media/images/sprtshot.png</image>
+    <rating>0.75</rating>
+    <releasedate>20030101T000000</releasedate>
+    <developer>Sammy Corporation</developer>
+    <publisher>Sammy Corporation</publisher>
+    <genre>Tiro com Lightgun</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./sushibar.zip</path>
+    <name>Sushi Bar</name>
+    <desc>Sushi Bar é um jogo de quebra-cabeça para a placa de arcade Sammy Atomiswave.&#xA;A jogabilidade é muito semelhante ao Puyo Puyo, onde o jogador deve rearranjar vários alimentos da culinária japonesa tradicional para desbloquear o próximo nível.</desc>
+    <image>./images/sushibar-image.png</image>
+    <rating>0.8</rating>
+    <releasedate>20030101T000000</releasedate>
+    <developer>Sammy Corporation</developer>
+    <publisher>Sammy Corporation</publisher>
+    <genre>Quebra-cabeças</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./vfurlong.zip</path>
+    <name>Net Select Horse Racing - Victory Furlong</name>
+    <desc>Net Select Keiba Victory Furlong (Net Select Horse Racing: Victory Furlong) é um jogo de fliperama de corrida de cavalos, que os japoneses adoram, além disso, a máquina de fliperama foi lançada apenas na terra do sol nascente.&#xA;O jogo também pode ser jogado online.</desc>
+    <image>./images/vfurlong-image.png</image>
+    <rating>0.75</rating>
+    <releasedate>20050101T000000</releasedate>
+    <developer>Progress</developer>
+    <publisher>Sammy Corporation</publisher>
+    <genre>Esporte com animais / Corrida de cavalos</genre>
+    <players>8+</players>
+  </game>
+  <game>
+    <path>./waidrive.zip</path>
+    <name>WaiWai Drive</name>
+    <desc>WaiWai Drive é um jogo de carros destinado a um público jovem, onde dois carros têm que coletar itens disponíveis na tela enquanto tentam obter mais do que o oponente.</desc>
+    <image>./images/waidrive-image.png</image>
+    <rating>0.5</rating>
+    <releasedate>20050101T000000</releasedate>
+    <developer>MOSS</developer>
+    <publisher>Sammy Corporation</publisher>
+    <genre>Corrida, Pilotagem</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./xtrmhnt2.zip</path>
+    <name>Extreme Hunting 2</name>
+    <desc>Embarque em uma viagem de caça inesquecível com Extreme Hunting 2, a sequência dos jogos de caça operados por moedas da Sega Amusements. Uma seleção dos mais prestigiados animais selvagens da América do Norte que um caçador poderia desejar, incluindo Bisão, Urso, Alce, Alce, Veado e Lobo, juntamente com fases bônus com Robalo, Ganso, Morcego, Esquilo e muito mais. Não perca a chance de jogar nossas Caças Especiais em constante mudança. O primeiro jogo para a plataforma online ALL.Net, o jogo conecta máquinas de fliperama em uma comunidade comum, permitindo torneios nacionais e classificações online enquanto você caça uma ampla variedade de animais selvagens.</desc>
+    <image>./images/xtrmhnt2-image.png</image>
+    <rating>0.75</rating>
+    <releasedate>20060101T000000</releasedate>
+    <developer>SEGA</developer>
+    <publisher>SEGA</publisher>
+    <genre>Tiro com Lightgun</genre>
+    <players>1-2</players>
+  </game>
+  <game>
+    <path>./xtrmhunt.zip</path>
+    <name>Extreme Hunting</name>
+    <desc>Você pode caçar um total de 6 animais, cada um com sua própria singularidade e animação realista. As fases de caça de cada animal apresentam uma variedade de regiões de caça, todas com imagens de fundo magníficas. As condições climáticas também terão influência dependendo da região. Uma vez que você completar a fase inteira do animal, poderá caçar no local bônus exclusivo dessa fase.</desc>
+    <image>./images/xtrmhunt-image.png</image>
+    <rating>0.75</rating>
+    <releasedate>20040101T000000</releasedate>
+    <developer>Sammy Corporation</developer>
+    <publisher>Sammy Corporation</publisher>
+    <genre>Tiro com Lightgun</genre>
+    <players>1-2</players>
+  </game>
+</gameList>

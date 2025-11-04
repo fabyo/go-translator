@@ -1,0 +1,503 @@
+<?xml version="1.0"?>
+<gameList>
+	<game id="37427">
+		<path>./anmlbskt.zip</path>
+		<name>Animal Basket</name>
+		<desc>"Tamaire" is a game traditionally played by japanese elementary school children at sport festivals. It takes about 200 stuffed balls, 2 baskets and 2 poles to hold the baskets. Any number of children can participate. This is the videogame version of this japanese game !</desc>
+		<image>./images/anmlbskt-image.png</image>
+		<video>./videos/anmlbskt-video.mp4</video>
+		<marquee>./images/anmlbskt-marquee.png</marquee>
+		<thumbnail>./images/anmlbskt-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>MOSS</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Esporte / Basquete</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>a591a5e9cb1543248bf3f6b72e870001</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20251026T121748" />
+	</game>			
+	<game id="37430">
+		<path>./demofist.zip</path>
+		<name>Demolish Fist</name>
+		<desc>Demolish Fist é um beat'em up onde o jogador controla um dos quatro personagens, Enzo, Leoneer, Vanessa ou Undead, enquanto você luta em vários estágios. Existem muitos itens disponíveis para usar como armas contra seus inimigos. Cada jogador tem sua própria variedade de movimentos e especiais que podem desencadear à vontade. Além disso, todos esses quatro personagens têm a capacidade de usar a incrível técnica 'Vertigo'! Demolish Fist é um jogo de luta bem montado que tem muitas coisas para oferecer ao mundo dos beat'em up.</desc>
+		<emulator>demul_teste</emulator>
+		<image>./media/images/demofist.png</image>
+		<video>./media/videos/demofist.mp4</video>
+		<marquee>./media/marquee/demofist.png</marquee>
+		<thumbnail>./media/thumbnail/demofist.png</thumbnail>
+		<fanart>./media/fanart/demofist.jpg</fanart>
+		<titleshot>./media/titleshot/demofist.png</titleshot>
+		<manual>./media/manuals/demofist.pdf</manual>
+		<map>./media/maps/demofist.png</map>
+		<cartridge>./media/cartridge/demofist.png</cartridge>
+		<boxart>./media/boxart/demofist.png</boxart>
+		<boxback>./media/boxback/demofist.png</boxback>
+		<wheel>./media/wheel/demofist.png</wheel>
+		<mix>./media/mix/demofist.png</mix>
+		<rating>0.75</rating>
+		<releasedate>20030601T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Luta</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<playcount>3</playcount>
+		<lastplayed>20231216T155312</lastplayed>
+		<md5>5e8347cf6bad4148da10942d22a61d1f</md5>
+		<gametime>58</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>ACB3B8E417AC743CBD24F7237F8D3F96</cheevosHash>
+		<scrap name="ScreenScraper" date="20251026T122137" />
+	</game>
+	<game id="37431">
+		<path>./dirtypig.zip</path>
+		<name>Dirty Pigskin Football</name>
+		<desc>This is Football with a twist. Rather than regularly suited up football players each with their own set of morals, we have got a completely unique cast of players who don't know the meaning of the word. One of the featured teams is: The prisoners, in their traditional orange jail overalls. Then we have: The Hitman group, a group of assassinsall dressed in black suits and dark glasses, pleasant right? These men are all just urging to get their hands dirty. In total there are 12 teams in this game, various venues to play at, and the game also features a cool 4-player simultaneous play mode. With a play system that is easy to use, Pigskin welcomes all level of player to join in the action.</desc>
+		<image>./images/dirtypig-image.png</image>
+		<video>./videos/dirtypig-video.mp4</video>
+		<marquee>./images/dirtypig-marquee.png</marquee>
+		<thumbnail>./images/dirtypig-thumb.png</thumbnail>
+		<rating>0.7</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>Play Mechanix</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Esporte / Futebol americano</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>ae73c60673123c3faf2541bd6351d721</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20251026T121836" />
+	</game>
+	<game id="37432">
+		<path>./dolphin.zip</path>
+		<name>Dolphin Blue</name>
+		<desc>Sammy's Atomiswave arcade shoot-em-up in the vein of Metal Slug, where players ride dolphins and destroy fleets of enemy ships and submarines.  Unfortunately, this arcade shoot-em-up was never ported to any home console.</desc>
+		<image>./images/dolphin-image.png</image>
+		<video>./videos/dolphin-video.mp4</video>
+		<marquee>./images/dolphin-marquee.png</marquee>
+		<thumbnail>./images/dolphin-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy Corporation</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Plataforma / Tiro com rolagem</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>bade5103315c9ebb2e5803aa797e5032</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20251026T121858" />
+	</game>
+	<game id="37433">
+		<path>./fotns.zip</path>
+		<name>Fist of the North Star</name>
+		<desc>Hokuto No Ken is probably one of the most interesting games on Atomiswave, both for its fast and brutal gameplay and for the charm of the characters and the story it represents.</desc>
+		<image>./media/images/fotns.png</image>
+		<video>./media/videos/fotns.mp4</video>
+		<marquee>./media/marquee/fotns.png</marquee>
+		<thumbnail>./media/thumbnail/fotns.png</thumbnail>
+		<fanart>./media/fanart/fotns.jpg</fanart>
+		<titleshot>./media/titleshot/fotns.png</titleshot>
+		<manual>./media/manuals/fotns.pdf</manual>
+		<map>./media/maps/fotns.png</map>
+		<cartridge>./media/cartridge/fotns.png</cartridge>
+		<boxart>./media/boxart/fotns.png</boxart>
+		<boxback>./media/boxback/fotns.png</boxback>
+		<wheel>./media/wheel/fotns.png</wheel>
+		<mix>./media/mix/fotns.png</mix>
+		<rating>0.95</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Arc System Works</developer>
+		<publisher>SEGA</publisher>
+		<genre>Luta / Versus</genre>
+		<family>Fist of the North Star</family>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<playcount />
+		<lastplayed />
+		<md5>85ebeb3feb9640fbd8caaedd15d33b3f</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>A9347EFEE640447CDF05275CFA0BF993</cheevosHash>
+		<scrap name="ScreenScraper" date="20251026T122205" />
+	</game>
+	<game id="37434">
+		<path>./ftspeed.zip</path>
+		<name>Faster Than Speed</name>
+		<desc>Enter the exciting street-racing world of FASTER THAN SPEED where the winner rules and the loser walks! Hit the street with the most addictive driving experience of your life! Pick from 8 customized rides. FASTER THAN SPEED will take your players into the exotic, dim-lit, back streets of over 6 tracks challenging the quickest, the fastest, the baddest, and the most stocked racer conquers the asphalt! To take down your challenger, you need to burn the street with a variety of high-speed tricks.</desc>
+		<emulator>Flycast</emulator>
+		<image>./media/images/ftspeed.png</image>
+		<video>./media/videos/ftspeed.mp4</video>
+		<marquee>./media/marquee/ftspeed.png</marquee>
+		<thumbnail>./media/thumbnail/ftspeed.png</thumbnail>
+		<fanart>./media/fanart/ftspeed.jpg</fanart>
+		<titleshot>./media/titleshot/ftspeed.png</titleshot>
+		<manual>./media/manuals/ftspeed.pdf</manual>
+		<map>./media/maps/ftspeed.png</map>
+		<cartridge>./media/cartridge/ftspeed.png</cartridge>
+		<boxart>./media/boxart/ftspeed.png</boxart>
+		<boxback>./media/boxback/ftspeed.png</boxback>
+		<wheel>./media/wheel/ftspeed.png</wheel>
+		<mix>./media/mix/ftspeed.png</mix>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sammy Corporation</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Corrida, Pilotagem / Corrida em 1ª pessoa</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1</players>
+		<playcount>2</playcount>
+		<lastplayed>20221101T221503</lastplayed>
+		<md5>173fb2e75b1f602d8b0cde88701bb6fa</md5>
+		<gametime>266</gametime>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>4A6B06D78431FFE2A681A1061C8298C1</cheevosHash>
+		<scrap name="ScreenScraper" date="20251026T122146" />
+	</game>		
+	<game id="37437">
+		<path>./kofnw.zip</path>
+		<name>The King of Fighters Neowave</name>
+		<desc>The King of Fighters: Neowave is a 2D 3-on-3 fighting game in the King of Fighters series, featuring three gameplay styles and new hardware.</desc>
+		<image>./media/images/kofnw.png</image>
+		<video>./media/videos/kofnw.mp4</video>
+		<marquee>./media/marquee/kofnw.png</marquee>
+		<thumbnail>./media/thumbnail/kofnw.png</thumbnail>
+		<fanart>./media/fanart/kofnw.jpg</fanart>
+		<titleshot>./media/titleshot/kofnw.png</titleshot>
+		<manual>./media/manuals/kofnw.pdf</manual>
+		<map>./media/maps/kofnw.png</map>
+		<cartridge>./media/cartridge/kofnw.png</cartridge>
+		<boxart>./media/boxart/kofnw.png</boxart>
+		<boxback>./media/boxback/kofnw.png</boxback>
+		<wheel>./media/wheel/kofnw.png</wheel>
+		<mix>./media/mix/kofnw.png</mix>
+		<rating>0.8</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>SNK Playmore</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Luta / Versus</genre>
+		<family>The King of Fighters</family>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<playcount />
+		<lastplayed />
+		<md5>50112b66b721cf9f216460cb895f65ad</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>AC48E7D2F30CB3681F4659E8D04C4216</cheevosHash>
+		<cheevosId>17684</cheevosId>
+		<scrap name="ScreenScraper" date="20251026T122157" />
+	</game>	
+	<game id="37439">
+		<path>./kov7sprt.zip</path>
+		<name>Knights of Valour : The Seven Spirits</name>
+		<desc>Knights of Valour is a side-scrolling Beat 'em up action arcade game released by International Games System in 1999. The plot is loosely adapted from the Chinese historical novel Romance of the Three Kingdoms and features the Five Tiger Generals, Zhuge Liang, Diaochan and others as playable characters. The gameplay involves the use of magical powers that are not featured in other games also based on the novel.</desc>
+		<image>./media/images/kov7sprt.png</image>
+		<video>./media/videos/kov7sprt.mp4</video>
+		<marquee>./media/marquee/kov7sprt.png</marquee>
+		<thumbnail>./media/thumbnail/kov7sprt.png</thumbnail>
+		<fanart>./media/fanart/kov7sprt.jpg</fanart>
+		<titleshot>./media/titleshot/kov7sprt.png</titleshot>
+		<manual>./media/manuals/kov7sprt.pdf</manual>
+		<map>./media/maps/kov7sprt.png</map>
+		<cartridge>./media/cartridge/kov7sprt.png</cartridge>
+		<boxart>./media/boxart/kov7sprt.png</boxart>
+		<boxback>./media/boxback/kov7sprt.png</boxback>
+		<wheel>./media/wheel/kov7sprt.png</wheel>
+		<mix>./media/mix/kov7sprt.png</mix>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>IGS</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Luta / 2.5D</genre>
+		<family>Knights of Valour</family>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<playcount />
+		<lastplayed />
+		<md5>a0cf419fab8199b0a1b3f65a4bc5cec4</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>CF0B377BA377C32A1A31CE33E869CE56</cheevosHash>
+		<scrap name="ScreenScraper" date="20251026T122126" />
+	</game>
+	<game id="37440">
+		<path>./maxspeed.zip</path>
+		<name>Maximum Speed</name>
+		<desc>Maximum Speed is a driving game which includes a single player mode, and a 2 Player Head to Head mode, 6 different courses, and allows players to select either automatic or manual transmission. There are 3 different difficulty levels available to the player, which ensures that Maximum Speed remains enjoyable and appealing to a variety of players.
+
+Players can also choose from 3 distinctly different racing styles: Stock Car, Open Wheel Cart or Pickup Truck. Maximum Speed also features great 3D action graphics and steering wheel feedback, which both add a degree of realism of the game.</desc>
+		<image>./media/images/maxspeed.png</image>
+		<video>./media/videos/maxspeed.mp4</video>
+		<marquee>./media/marquee/maxspeed.png</marquee>
+		<thumbnail>./media/thumbnail/maxspeed.png</thumbnail>
+		<fanart>./media/fanart/maxspeed.jpg</fanart>
+		<titleshot>./media/titleshot/maxspeed.png</titleshot>
+		<manual>./media/manuals/maxspeed.pdf</manual>
+		<map>./media/maps/maxspeed.png</map>
+		<cartridge>./media/cartridge/maxspeed.png</cartridge>
+		<boxart>./media/boxart/maxspeed.png</boxart>
+		<boxback>./media/boxback/maxspeed.png</boxback>
+		<wheel>./media/wheel/maxspeed.png</wheel>
+		<mix>./media/mix/maxspeed.png</mix>
+		<rating>0.75</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sims</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Corrida, Pilotagem / Corrida em 1ª pessoa</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1</players>
+		<playcount />
+		<lastplayed />
+		<md5>4e130cac24cb824a5366cf0bc0902f71</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>89CF9BEEB9EA18529E4BD86703AB5392</cheevosHash>
+		<scrap name="ScreenScraper" date="20251026T122142" />
+	</game>
+	<game id="37442">
+		<path>./ngbc.zip</path>
+		<name>NeoGeo Battle Coliseum</name>
+		<desc>NeoGeo Special Cast unleashes the tag-team versus fighter NeoGeo Battle Coliseum. In addition to original heroes and heroines, it features a host of unique characters that transcend time. Armed with weapons and robots, warriors from both old and new titles of the once dominant NeoGeo platform have been amassed under one roof in this new Xbox LIVE Arcade version, featuring both character and background graphics redone in high definition.</desc>
+		<image>./images/ngbc-image.png</image>
+		<video>./videos/ngbc-video.mp4</video>
+		<marquee>./images/ngbc-marquee.png</marquee>
+		<thumbnail>./images/ngbc-thumb.png</thumbnail>
+		<rating>0.85</rating>
+		<releasedate>20050727T000000</releasedate>
+		<developer>SNK Playmore</developer>
+		<publisher>SEGA</publisher>
+		<genre>Luta</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20251026T122233" />
+	</game>
+	<game id="37443">
+		<path>./rangrmsn.zip</path>
+		<name>Ranger Mission</name>
+		<desc>A 1 to 2 player 3-D military combat shooting game where players use pump-action shotguns to shoot on-screen enemies.The game has four different missions:Jungle Mission, Desert Mission, Indoor Rescue Mission and Tundra Mission.</desc>
+		<image>./media/images/rangrmsn.png</image>
+		<video>./media/videos/rangrmsn.mp4</video>
+		<marquee>./media/marquee/rangrmsn.png</marquee>
+		<thumbnail>./media/thumbnail/rangrmsn.png</thumbnail>
+		<fanart>./media/fanart/rangrmsn.jpg</fanart>
+		<titleshot>./media/titleshot/rangrmsn.png</titleshot>
+		<manual>./media/manuals/rangrmsn.pdf</manual>
+		<map>./media/maps/rangrmsn.png</map>
+		<cartridge>./media/cartridge/rangrmsn.png</cartridge>
+		<boxart>./media/boxart/rangrmsn.png</boxart>
+		<boxback>./media/boxback/rangrmsn.png</boxback>
+		<wheel>./media/wheel/rangrmsn.png</wheel>
+		<mix>./media/mix/rangrmsn.png</mix>
+		<rating>0.75</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>RIZ</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Tiro com Lightgun</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1</players>
+		<playcount />
+		<lastplayed />
+		<md5>86031711d4e3ffabdcf5615068d439b7</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>66F416BF5EDC7691034C21C89773F11C</cheevosHash>
+		<scrap name="ScreenScraper" date="20251026T122234" />
+	</game>
+	<game id="37444">
+		<path>./rumblef.zip</path>
+		<name>The Rumble Fish</name>
+		<desc>The Rumble Fish is a fighting game created by Dimps for the Atomiswave arcade platform. Its most distinguishing quality is its graphics engine, which animates the characters' limbs separately.</desc>
+		<image>./media/images/rumblef.png</image>
+		<video>./media/videos/rumblef.mp4</video>
+		<marquee>./media/marquee/rumblef.png</marquee>
+		<thumbnail>./media/thumbnail/rumblef.png</thumbnail>
+		<fanart>./media/fanart/rumblef.jpg</fanart>
+		<titleshot>./media/titleshot/rumblef.png</titleshot>
+		<manual>./media/manuals/rumblef.pdf</manual>
+		<map>./media/maps/rumblef.png</map>
+		<cartridge>./media/cartridge/rumblef.png</cartridge>
+		<boxart>./media/boxart/rumblef.png</boxart>
+		<boxback>./media/boxback/rumblef.png</boxback>
+		<wheel>./media/wheel/rumblef.png</wheel>
+		<mix>./media/mix/rumblef.png</mix>
+		<rating>0.85</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Dimps</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Luta / Versus</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<playcount />
+		<lastplayed />
+		<md5>2127b61a2605a7c975e370ea9322e323</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>1D551D4B701FC92D76AA80CEF5BCEE57</cheevosHash>
+		<scrap name="ScreenScraper" date="20251026T122239" />
+	</game>	
+	<game id="37446">
+		<path>./salmankt.zip</path>
+		<name>Net Select Salaryman Kintaro</name>
+		<desc>Classic domino game inspired by a Japanese manga series by Hiroshi Motomiya. It was serialized in Weekly Young Jump from 1994 to 2002, with many periods of inactivity during its run. Salaryman Kintaro had sold over 30 million copies in paperback.</desc>
+		<image>./images/salmankt-image.png</image>
+		<video>./videos/salmankt-video.mp4</video>
+		<marquee>./images/salmankt-marquee.png</marquee>
+		<thumbnail>./images/salmankt-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Yuki Enterprise</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Jogo de tabuleiro Asiático / Mahjong</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>fbb1c0d0b17458d90413259c126475d8</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20251026T122257" />
+	</game>	
+	<game id="37448">
+		<path>./sprtshot.zip</path>
+		<name>Sports Shooting USA</name>
+		<desc>A competitive 1 to 2 player shooting game where players, using optical guns, must shoot a number of required on-screen targets within a certain time limit to qualify and proceed to next round.</desc>
+		<image>./media/images/sprtshot.png</image>
+		<video>./media/videos/sprtshot.mp4</video>
+		<marquee>./media/marquee/sprtshot.png</marquee>
+		<thumbnail>./media/thumbnail/sprtshot.png</thumbnail>
+		<fanart>./media/fanart/sprtshot.jpg</fanart>
+		<titleshot>./media/titleshot/sprtshot.png</titleshot>
+		<manual>./media/manuals/sprtshot.pdf</manual>
+		<map>./media/maps/sprtshot.png</map>
+		<cartridge>./media/cartridge/sprtshot.png</cartridge>
+		<boxart>./media/boxart/sprtshot.png</boxart>
+		<boxback>./media/boxback/sprtshot.png</boxback>
+		<wheel>./media/wheel/sprtshot.png</wheel>
+		<mix>./media/mix/sprtshot.png</mix>
+		<rating>0.75</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy Corporation</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Tiro com Lightgun</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<playcount />
+		<lastplayed />
+		<md5>1d72f8f74460cf2389c6f9e2cf0381fc</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<cheevosHash>D6D4492EF302F96E58FAF28E0C30C523</cheevosHash>
+		<scrap name="ScreenScraper" date="20251026T122302" />
+	</game>
+	<game id="150251">
+		<path>./sushibar.zip</path>
+		<name>Sushi Bar</name>
+		<desc>Sushi Bar is a puzzle game for the Sammy Atomiswave arcade board.
+The gameplay is very similar with Puyo Puyo where the player must rearrange various foods of the traditional Japanese culinary to unlock the next level.</desc>
+		<image>./images/sushibar-image.png</image>
+		<video>./videos/sushibar-video.mp4</video>
+		<marquee>./images/sushibar-marquee.png</marquee>
+		<thumbnail>./images/sushibar-thumb.png</thumbnail>
+		<rating>0.8</rating>
+		<releasedate>20030101T000000</releasedate>
+		<developer>Sammy Corporation</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Quebra-cabeças</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>3905126bf7d7efb18d4d4e50b07a8f70</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20251026T122314" />
+	</game>
+	<game id="150214">
+		<path>./vfurlong.zip</path>
+		<name>Net Select Horse Racing - Victory Furlong</name>
+		<desc>Net Select Keiba Victory Furlong (Net Select Horse Racing: Victory Furlong) is a horse racing arcade game, which the Japanese love, moreover the arcade machine was only released in the land of the sun Levant.
+The game is played online, too.</desc>
+		<image>./images/vfurlong-image.png</image>
+		<video>./videos/vfurlong-video.mp4</video>
+		<marquee>./images/vfurlong-marquee.png</marquee>
+		<thumbnail>./images/vfurlong-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>Progress</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Esporte com animais / Corrida de cavalos</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>8+</players>
+		<md5>c254676ac34de81293ec6d1d4b744b9c</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20251026T122324" />
+	</game>
+	<game id="150076">
+		<path>./waidrive.zip</path>
+		<name>WaiWai Drive</name>
+		<desc>WaiWai Drive is a car game intended for a young audience where two cars have to collect available items on the screen while trying to get more than the opponent.</desc>
+		<image>./images/waidrive-image.png</image>
+		<video>./videos/waidrive-video.mp4</video>
+		<marquee>./images/waidrive-marquee.png</marquee>
+		<thumbnail>./images/waidrive-thumb.png</thumbnail>
+		<rating>0.5</rating>
+		<releasedate>20050101T000000</releasedate>
+		<developer>MOSS</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Corrida, Pilotagem</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>b6d249cc7936f6dbace807c59dbb8532</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20251026T122330" />
+	</game>
+	<game id="37449">
+		<path>./xtrmhnt2.zip</path>
+		<name>Extreme Hunting 2</name>
+		<desc>Embark on a hunting trip of a lifetime with Extreme Hunting 2, the sequel to Sega Amusements' line of coin-operated hunting games. A choice of the most prestigious North American wild game a hunter could ask for including Bison, Bear, Moose, Elk, Deer, and Wolf along with bonus stages featuring Bass, Goose, Bat, Squirrel and more. Don't miss the chance to play our ever-changing Special Hunts. The first game for the ALL.Net online platform, the game links arcade machines into a common community allowing for national tournaments and online rankings as you hunt a widest variety of wild game.</desc>
+		<image>./images/xtrmhnt2-image.png</image>
+		<video>./videos/xtrmhnt2-video.mp4</video>
+		<marquee>./images/xtrmhnt2-marquee.png</marquee>
+		<thumbnail>./images/xtrmhnt2-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20060101T000000</releasedate>
+		<developer>SEGA</developer>
+		<publisher>SEGA</publisher>
+		<genre>Tiro com Lightgun</genre>
+		<family>Hunting</family>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>144d226348e48c31fcc139a4d377492d</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20251026T122333" />
+	</game>
+	<game id="37450">
+		<path>./xtrmhunt.zip</path>
+		<name>Extreme Hunting</name>
+		<desc>You can hunt a total of 6 animals, each with its own uniqueness and life-like animation. The individual animal hunting stages feature a variety of hunting regions, all with magnificent background imagery. Weather conditions will also come into play depending on the region. Once you complete the entire animal stage you will be able to hunt in that stage's unique bonus spot.</desc>
+		<image>./images/xtrmhunt-image.png</image>
+		<video>./videos/xtrmhunt-video.mp4</video>
+		<marquee>./images/xtrmhunt-marquee.png</marquee>
+		<thumbnail>./images/xtrmhunt-thumb.png</thumbnail>
+		<rating>0.75</rating>
+		<releasedate>20040101T000000</releasedate>
+		<developer>Sammy Corporation</developer>
+		<publisher>Sammy Corporation</publisher>
+		<genre>Tiro com Lightgun</genre>
+		<arcadesystemname>atomiswave</arcadesystemname>
+		<players>1-2</players>
+		<md5>338395cd7f5ed02b28be0df46876d0b5</md5>
+		<lang>en</lang>
+		<region>us</region>
+		<scrap name="ScreenScraper" date="20251026T122021" />
+	</game>		
+</gameList>
