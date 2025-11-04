@@ -1,4 +1,6 @@
-# Golang ChatGPT 🎮🤖
+# <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go"/>
+ Golang ChatGPT 🎮🤖
+<img src="https://img.shields.io/badge/ChatGPT-412991?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT"/>
 
 <img src="go-gpt.png" alt="Golang" width="200" />
 
