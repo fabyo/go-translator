@@ -54,9 +54,7 @@ O projeto espera um XML no padrão:
 </game>
 </gameList>
 
----
-
-## 🗂️ Instalação e uso
+ 🗂️ Instalação e uso
 
 - git clone https://github.com/fabyo/go-gamelist-gpt.git
 - cd go-gamelist-gpt
