@@ -1,5 +1,6 @@
 # Golang ChatGPT 🎮🤖
 
+<img src="go-gpt.png" alt="Golang" width="200" />
 
 Ferramenta em \*\*Go\*\* para:
 
