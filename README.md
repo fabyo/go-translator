@@ -41,7 +41,6 @@ A ideia principal não é só “traduzir gamelist”, mas:
 
 O projeto espera um XML no padrão:
 
-
 ```xml
 <gameList>
   <game>
@@ -56,7 +55,7 @@ O projeto espera um XML no padrão:
 </gameList>
 ```
 
- 📥 Instalação e uso
+ ## 📥 Instalação e uso
 
 ```code
 - git clone https://github.com/fabyo/go-gamelist-gpt.git
