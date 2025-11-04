@@ -27,11 +27,11 @@ A ideia principal não é só “traduzir gamelist”, mas:
 ---
 
 ## ⚙️ Tecnologias utilizadas
-- \*\*Go (Golang)\*\*
+- **Go (Golang)**
     - `encoding/xml`
     - `os`, `path/filepath`
     - `strings`, `time`, `fmt`, `io`
-    - \*\*\[go-openai](https://github.com/sashabaranov/go-openai)\*\*  
+    - **[go-openai](https://github.com/sashabaranov/go-openai)**  
 
 ---
 
