@@ -2,17 +2,17 @@
 
 <img src="go-gpt.png" alt="Golang" width="200" />
 
-Ferramenta em \*\*Go\*\* para:
+Ferramenta em **Go** para:
 
 - Ler um arquivo `gamelist.xml` (formato usado por Retrobat, Batocera etc.)
 - Coletar o conteúdo das tags `<desc>` de cada jogo
-- Enviar essas descrições para a \*\*API GPT (OpenAI)\*\*
-- Gerar um \*\*novo XML\*\* (`gamelist\_pt.xml`) com as descrições \*\*traduzidas\*\* para português do Brasil
+- Enviar essas descrições para a **API GPT (OpenAI)**
+- Gerar um **novo XML** (`gamelist_pt.xml`) com as descrições **traduzidas** para português do Brasil
 
 É um projeto com foco didático, mostrando na prática:
 
-- Como \*\*ler e escrever XML\*\* em Go
-- Como integrar com a \*\*API da OpenAI\*\* usando a lib `go-openai`
+- Como **ler e escrever XML** em Go
+- Como integrar com a **API da OpenAI** usando a lib `go-openai`
 - Como montar um pipeline simples de “ler arquivo → processar com IA → salvar resultado”
 
 ---
@@ -21,8 +21,8 @@ Ferramenta em \*\*Go\*\* para:
 
 A ideia principal não é só “traduzir gamelist”, mas:
 
-- Demonstrar \*\*como consumir a API ChatGPT\*\* em Go
-- Mostrar manipulação de \*\*estruturas XML\*\*
+- Demonstrar **como consumir a API ChatGPT** em Go
+- Mostrar manipulação de **estruturas XML**
 - Criar um exemplo que qualquer pessoa que mexe com ROMs/emuladores entende e consegue reutilizar até em outras areas
 
 ---
